@@ -5,10 +5,10 @@ O que foi feito para esse processo seletivo:
 - ✅ Typescript
 - ✅ Testes unitários
 - ✅ 100% responsividade
-- ✅ rotas em URL única
+- ✅ Rotas em URL única
 - ✅ Validação de formulário
 - ✅ Temas customizados/Acessibilidade
-- ✅ Deploy
+- ✅ Deploy da aplicação
 - ✅ Credit Card Visualizer
 
 ## Stacks:
@@ -71,3 +71,23 @@ https://beleza-na-web-cart.vercel.app/
 - **CVV**
   - Campo obrigatório
   - Valida a entrada para que tenha no mínimo 3 dígitos 
+
+
+# Testes unitários
+![testes](https://user-images.githubusercontent.com/81202572/168209161-80d64769-24a1-41c9-9cba-a203218822d5.png)
+
+- Mais de 40 testes unitários escritos
+- ✅ Testes dos componentes
+- ✅ Testes dos hooks
+- ✅ Testes das pages
+- ✅ Testes das funções do utils
+- 65.77% de coverage
+
+# #AcessibilidadeSim
+![temas](https://user-images.githubusercontent.com/81202572/168209033-6b57eb2e-569a-42f6-9768-1e559dcc0aca.gif)
+![Captura de tela 2022-05-13 011056](https://user-images.githubusercontent.com/81202572/168209726-b40d5f5e-7b67-4c18-8088-b7bb22eb695d.png)
+
+
+- Acessibilidade através de temas personalizados
+- Criação de um menu dropdown com o ícone de uma pessoa, ao clicar são exibidas as opções
+- Possibilidade do dark mode, high contrast e de um tema para aumento de todas as fontes da aplicação para pessoas com dificuldades

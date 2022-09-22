@@ -1,6 +1,4 @@
-# Entregas
-
-O que foi feito para esse processo seletivo:
+## Techs
 
 - ✅ Typescript
 - ✅ Testes unitários
